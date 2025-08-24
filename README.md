@@ -1,4 +1,4 @@
-PROJECT: Full-Stack Project Management Dashboard with Automated DevOps Pipeline
+PROJECT: Full-Stack Task Management Dashboard with Automated DevOps Pipeline
 
 Technical Stack: React.js, JavaScript (ES6+), HTML5, CSS3, React Router, AWS S3, AWS CLI, Bash, Linux, Git
 
